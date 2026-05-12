@@ -57,6 +57,5 @@ def main():
     ans = solve(X,W,ratio,n,d,c)
     print(' '.join(map(str,ans)))
 
-
 if __name__ == '__main__':
     main()
